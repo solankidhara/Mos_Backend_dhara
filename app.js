@@ -11,7 +11,7 @@ const cors = require('cors');
 
 
 var corsOptions = {
-  origin: 'https://63be96a4543d6e09ff1df57c--euphonious-flan-503ace.netlify.app',
+  origin: 'https://abcstock.as.r.appspot.com',
   // optionsSuccessStatus: 200 // some legacy browsers (IE11, various SmartTVs) choke on 204
 }
 
